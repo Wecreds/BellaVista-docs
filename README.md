@@ -40,6 +40,7 @@ Nosso software tem como foco principal simplificar a gestão de reservas e contr
 -   Para o proprietário e funcionários: permitirá o gerenciamento dos quartos, possibilitando a adição de novos quartos, atualização suas informações.
 
 # 4. Modelagem de Dados
+![Modelo DER](BellaVista(DER).png "der")
 <!--
 # 4. Regras de negócio
 (*Nessa parte a equipe deve descrever as regras de negócio que serão implementadas no sistema. O texto abaixo descreve o que essa etapa deve conter e pode ser apagado depois.*)
