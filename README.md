@@ -11,8 +11,8 @@ Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em D
 
 **Links**
 -   [Documentação](https://github.com/Wecreds/FedoraHotels-docs/edit/main/README.md)
--   Backend: [Repositório]() e [Publicação]()
--   Frontend: [Repositório]() e [Publicação]()
+-   Backend: [Repositório](https://github.com/Wecreds/BellaVista-backend) e [Publicação]()
+-   Frontend: [Repositório](https://github.com/Wecreds/BellaVista-frontend) e [Publicação]()
 # 1. Desenvolvimento
 ***Bella Vista*** é uma pousada contemporânea localizada em Joinville, fundada e liderada por Priscilla em 2023 e com uma breve trajetória no mercado. Agora procurando melhorar a gestão de sua pousada, ele quer um site que seja capaz de gerir as reservas de seu estabelecimento.
 
